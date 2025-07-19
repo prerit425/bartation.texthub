@@ -1,0 +1,13 @@
+# Ignore Python environment
+venv/
+__pycache__/
+
+# Django specific
+*.sqlite3
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
